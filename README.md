@@ -42,24 +42,13 @@ MODE: LEARNING & BUILDING
 ## TECH STACK
 
 ```bash
-[+] HTML
+[+] HTML                  [+] Python
 [+] CSS
 [+] JavaScript
-[+] Python
+
 [+] Git
-```
+[+] React Native
 
----
-
-## PAC-MAN LOADING SKILLS
-
-```bash
-> Pacman eating skills...
-> HTML ✔
-> CSS ✔
-> JavaScript ✔
-> Python ✔
-> Git ✔
 ```
 
 ---
