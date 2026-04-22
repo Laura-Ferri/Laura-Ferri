@@ -71,24 +71,13 @@ MODE: LEARNING & BUILDING
 
 ---
 
-## 🧠 CURRENT MISSION
+## CURRENT MISSION
 
 ```bash
-- graduating in Computer Science 🎓
-- improving programming skills 💻
-- building cool projects 🚀
+- graduating in Computer Science 
+- improving programming skills 
+- building cool projects 
 ```
-
----
-
-## FEATURED PROJECTS
-
-```bash
-> loading projects...
-```
-
-* 🔓 [Projeto 01](https://github.com/SEUUSUARIO/projeto)
-* 🕶️ [Projeto 02](https://github.com/SEUUSUARIO/projeto2)
 
 ---
 
