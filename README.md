@@ -1,3 +1,49 @@
+<!-- PAC-MAN ANIMATION -->
+
+<p align="center">
+  <svg width="600" height="120" xmlns="http://www.w3.org/2000/svg">
+
+```
+<!-- PACMAN -->
+<g>
+  <circle cx="60" cy="60" r="35" fill="#FFD700"/>
+  <polygon points="60,60 95,40 95,80" fill="black">
+    <animate attributeName="points"
+      values="60,60 95,40 95,80;
+              60,60 95,55 95,65;
+              60,60 95,40 95,80"
+      dur="0.3s"
+      repeatCount="indefinite"/>
+  </polygon>
+
+  <animateTransform
+    attributeName="transform"
+    type="translate"
+    from="0 0"
+    to="400 0"
+    dur="4s"
+    repeatCount="indefinite"/>
+</g>
+
+<!-- DOTS -->
+<circle cx="150" cy="60" r="5" fill="white"/>
+<circle cx="220" cy="60" r="5" fill="white"/>
+<circle cx="290" cy="60" r="5" fill="white"/>
+<circle cx="360" cy="60" r="5" fill="white"/>
+<circle cx="430" cy="60" r="5" fill="white"/>
+```
+
+  </svg>
+</p>
+
+<!-- GIF -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+</p>
+
+---
+
 # 🟢 >_ Laura.exe
 
 ```bash
@@ -6,8 +52,6 @@
 > role: Developer
 > access granted ✔
 ```
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
 
 ---
 
@@ -48,6 +92,19 @@ MODE: LEARNING & BUILDING
 
 ---
 
+## 🎮 PAC-MAN LOADING SKILLS
+
+```bash
+> Pacman eating skills...
+> HTML ✔
+> CSS ✔
+> JavaScript ✔
+> Python ✔
+> Git ✔
+```
+
+---
+
 ## 📊 DATA STREAM
 
 ![stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&show_icons=true\&theme=chartreuse-dark\&hide_border=true)
@@ -63,10 +120,6 @@ MODE: LEARNING & BUILDING
 ---
 
 ## 🌐 CONNECTIONS
-
-```bash
-> establishing secure connections...
-```
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=00ff00)](https://github.com/SEUUSUARIO)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=00ff00)](https://linkedin.com/)
