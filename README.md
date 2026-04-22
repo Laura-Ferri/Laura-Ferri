@@ -3,12 +3,6 @@
   <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="600"/>
 </p>
 
-<!-- SEU GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
-</p>
----
-
 # 🟢 >_ Laura.exe
 
 ```bash
