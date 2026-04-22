@@ -43,11 +43,8 @@ MODE: LEARNING & BUILDING
 
 ```bash
 [+] HTML                  [+] Python
-[+] CSS
-[+] JavaScript
-
-[+] Git
-[+] React Native
+[+] CSS                   [+] Git
+[+] JavaScript            [+] React Native
 
 ```
 
