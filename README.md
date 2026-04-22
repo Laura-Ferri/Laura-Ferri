@@ -14,7 +14,7 @@
 
 ---
 
-## 🧬 SYSTEM STATUS
+## SYSTEM STATUS
 
 ```bash
 USER: Laura
@@ -32,14 +32,14 @@ MODE: LEARNING & BUILDING
 > initializing bio...
 ```
 
-💻 Programadora apaixonada por tecnologia
-🎓 Cursando Ciência da Computação (7º semestre)
-🚀 Sempre buscando evoluir e aprender novas tecnologias
-🧠 Interessada em desenvolvimento e resolução de problemas
+ Programadora apaixonada por tecnologia
+ Cursando Ciência da Computação (7º semestre)
+ Sempre buscando evoluir e aprender novas tecnologias
+ Interessada em desenvolvimento e resolução de problemas
 
 ---
 
-## 🛠️ TECH STACK
+## TECH STACK
 
 ```bash
 [+] HTML
@@ -51,7 +51,7 @@ MODE: LEARNING & BUILDING
 
 ---
 
-## 🎮 PAC-MAN LOADING SKILLS
+## PAC-MAN LOADING SKILLS
 
 ```bash
 > Pacman eating skills...
@@ -64,7 +64,7 @@ MODE: LEARNING & BUILDING
 
 ---
 
-## 📊 DATA STREAM
+## DATA STREAM
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Laura-Ferri\&show_icons=true\&theme=chartreuse-dark\&hide_border=true)
 
@@ -72,15 +72,15 @@ MODE: LEARNING & BUILDING
 
 ---
 
-## 🔥 ACTIVITY LOG
+## ACTIVITY LOG
 
-![streak](https://streak-stats.demolab.com?user=SEUUSUARIO\&theme=chartreuse-dark\&hide_border=true)
+![streak](https://streak-stats.demolab.com?user=Laura-Ferri\&theme=chartreuse-dark\&hide_border=true)
 
 ---
 
-## 🌐 CONNECTIONS
+## CONNECTIONS
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=00ff00)](https://github.com/SEUUSUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=00ff00)](https://github.com/Laura-Ferri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=00ff00)](https://linkedin.com/)
 
 ---
@@ -95,7 +95,7 @@ MODE: LEARNING & BUILDING
 
 ---
 
-## 🧩 FEATURED PROJECTS
+## FEATURED PROJECTS
 
 ```bash
 > loading projects...
