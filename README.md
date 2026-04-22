@@ -1,6 +1,6 @@
 <!-- PACMAN -->
 <p align="center">
-  <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="600"/>
+  <img src="[https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif](https://tenor.com/zm8Y.gif)" width="600"/>
 </p>
 
 # 🟢 >_ Laura.exe
