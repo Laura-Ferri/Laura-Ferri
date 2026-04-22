@@ -1,6 +1,6 @@
 <!-- PACMAN -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzl2Z3NmZno0dWE1ZjdmN2Z2dTFyd3p0MHFxdWNmZGc1cWF4OGFmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.gif" width="600"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJzem5waGQ2a25pYXIxODlsMHR3cWg4a2lsank1OWQwMjY0eTBpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0fz5uNPHnoVHLEhAW2/giphy.gif" width="600"/>
 </p>
 
 # 🟢 >_ Laura.exe
