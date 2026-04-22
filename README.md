@@ -26,7 +26,7 @@ MODE: LEARNING & BUILDING
 
 ---
 
-## 👩‍💻 SOBRE MIM
+## SOBRE MIM
 
 ```bash
 > initializing bio...
