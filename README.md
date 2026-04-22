@@ -66,9 +66,9 @@ MODE: LEARNING & BUILDING
 
 ## 📊 DATA STREAM
 
-![stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&show_icons=true\&theme=chartreuse-dark\&hide_border=true)
+![stats](https://github-readme-stats.vercel.app/api?username=Laura-Ferri\&show_icons=true\&theme=chartreuse-dark\&hide_border=true)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO\&layout=compact\&theme=chartreuse-dark\&hide_border=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-Ferri\&layout=compact\&theme=chartreuse-dark\&hide_border=true)
 
 ---
 
